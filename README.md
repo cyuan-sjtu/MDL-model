@@ -1,2 +1,2 @@
-# Recurrent DL for Tumor Recurrence Prediction
-The code of "A recurrent deep learning method for predicting tumor recurrence pattern from multi-modality images"
+# Multimodality Spatial Hierarchical Feature Learning
+The code of "Multimodality Spatial Hierarchical Feature Learning for the Metastasis Subtype Prediction of Soft-Tissue Sarcomas in PET-CT Images"
